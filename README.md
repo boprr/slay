@@ -1,4 +1,4 @@
-# sway
+# slay
 
 **[English][en]** - [عربي][ar] - [Česky][cs] - [Deutsch][de] - [Dansk][dk] - [Español][es] - [Français][fr] - [ქართული][ge] - [Ελληνικά][gr] - [हिन्दी][hi] - [Magyar][hu] - [فارسی][ir] - [Italiano][it] - [日本語][ja] - [한국어][ko] - [Nederlands][nl] - [Norsk][no] - [Polski][pl] - [Português][pt] - [Română][ro] - [Русский][ru] - [Svenska][sv] - [Türkçe][tr] - [Українська][uk] - [中文-简体][zh-CN] - [中文-繁體][zh-TW]
 
@@ -53,7 +53,7 @@ Run `man 5 sway` for information on the configuration.
 
 ## Running
 
-Run `sway` from a TTY. Some display managers may work but are not supported by
+Run `slay` from a TTY. Some display managers may work but are not supported by
 sway (gdm is known to work fairly well).
 
 [en]: https://github.com/swaywm/sway#readme
