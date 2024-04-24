@@ -22,6 +22,7 @@ add_project_arguments(
 		'-Wno-format-zero-length',
 		'-Wundef',
 		'-Wvla',
+		'-O3',
 	],
 	language: 'c',
 )
